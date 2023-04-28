@@ -32,5 +32,13 @@ router.get('/divide/:num1/:num2', function (req, res) {
   res.json(result)
 })
 
+router.get('/exp/:num1/:num2', function (req, res) {
+  // TODO
+  let num1 = parseInt(req.params.num1)
+  let num2 = parseInt(req.params.num2)
+  let result = (num1 ** num2).toString()
+  res.json(result)
+})
+
 
 module.exports = router
