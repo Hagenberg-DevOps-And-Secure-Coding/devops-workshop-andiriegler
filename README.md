@@ -1,6 +1,7 @@
 # Lab DevOps
 `Add the badge here (see assignment below)`
-![example workflow](https://github.com/Hagenberg-DevOps-And-Secure-Coding/devops-workshop-andiriegler/actions/workflows/andi-OpsDev-CI.yml/badge.svg)
+
+![devops workflow](https://github.com/Hagenberg-DevOps-And-Secure-Coding/devops-workshop-andiriegler/actions/workflows/andi-OpsDev-CI.yml/badge.svg)
 
 ## Introduction
 The company OpsDev has been secretly following our DevOps workshop and has jumped on the chance to implement a CI/CD pipeline for their own calculator app. However, the company considers itself allergic to Jenkins and (locally hosted) virtual machines.
